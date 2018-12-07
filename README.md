@@ -1,3 +1,3 @@
-# AntennaTracker
+# TrackerAntenna
 
-Antenna tracker - A device of Aksantavirya - Aksantara ITB team
+Tracker Antenna - a device of Aksantavirya - Aksantara ITB team
