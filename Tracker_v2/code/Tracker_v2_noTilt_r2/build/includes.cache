@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\ASUS\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.20\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\ASUS\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.20\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "D:\\AKSANTARA\\FW KRTI 2018\\code\\Tracker_v2.0_noTilt_r2\\build\\sketch\\Tracker_v2.0_noTilt_r2.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\AKSANTARA\\FW KRTI 2018\\code\\Tracker_v2.0_noTilt_r2\\build\\sketch\\BTS7960.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\AKSANTARA\\FW KRTI 2018\\code\\Tracker_v2.0_noTilt_r2\\build\\sketch\\PWM.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

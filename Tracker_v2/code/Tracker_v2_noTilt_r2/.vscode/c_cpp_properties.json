@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:\\Google Drive\\Electronics and Automation\\Arduino\\tools\\**",
+                "D:\\Google Drive\\Electronics and Automation\\Arduino\\hardware\\Arduino_STM32\\STM32F1\\**",
+                "C:\\Users\\ASUS\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**",
+                "C:\\Users\\ASUS\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.20\\**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "C:\\Program Files\\Haskell Platform\\8.2.2\\mingw\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

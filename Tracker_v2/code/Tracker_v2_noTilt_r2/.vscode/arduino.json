@@ -1,0 +1,6 @@
+{
+    "sketch": "Tracker_v2.0_noTilt_r2.ino",
+    "board": "Arduino_STM32:STM32F1:genericSTM32F103C",
+    "configuration": "device_variant=STM32F103C8,upload_method=DFUUploadMethod,cpu_speed=speed_72mhz,opt=osstd",
+    "output": "D:\\AKSANTARA\\FW KRTI 2018\\code\\Tracker_v2.0_noTilt_r2\\build"
+}
